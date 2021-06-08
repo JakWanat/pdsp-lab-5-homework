@@ -3,7 +3,7 @@ Nazwa:      pdsp-lab-6
 Przedmiot:  *Procesory DSP*  
 Opis:   szóste spotkanie laboratoryjne.  
 Wersja: v1.0.0  
-
+a
 # Informacje o studencie wykonującym ćwiczenie laboratoryjne
 Imię i nazwisko studenta:   Jakub Wanat  
 Numer albumu:               72036
